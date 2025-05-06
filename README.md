@@ -31,7 +31,7 @@ This particular server:
 ```
 .
 ├── mcp_server.py     # Main MCP server implementation
-├── app.py            # (Optional) Streamlit UI frontend
+├── test_client.py    # (Optional) Simple test client to interact with your MCP server
 ├── requirements.txt  # Python dependencies
 ├── .env              # API keys and secrets
 ```
